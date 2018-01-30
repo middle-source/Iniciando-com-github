@@ -7,10 +7,16 @@
         <title>Git Inicio</title>
     </head>
     <body>
-        <?= "Hello World"; ?>
+        <?= "Hello World Double"; ?>
     
     </body>
 </html>
 
 
-<!-- SCM = SOURCE CODE MANAGEMENT -->
+<!--
+     SCM = SOURCE CODE MANAGEMENT 
+    git add  "NomeArquivo.extensão" - Adicionar para StageArea GIT
+    git commit -m "Aqui Vai sua mensagem para seu commit ";
+    
+
+-->
